@@ -1,0 +1,9 @@
+{
+  "name": "edito-store",
+  "version": "1.0.0",
+  "description": "ÉDITO — Premium Fashion Store",
+  "scripts": {
+    "dev": "npx live-server --port=3000 --open=index.html",
+    "start": "npx serve . -p 3000"
+  }
+}
